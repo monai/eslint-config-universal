@@ -21,5 +21,8 @@
     "eslint": ">=7",
     "eslint-config-airbnb-base": ">=14",
     "eslint-plugin-node": ">=11"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
 }

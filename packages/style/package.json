@@ -20,5 +20,8 @@
   "peerDependencies": {
     "eslint": ">=7",
     "eslint-config-airbnb-base": ">=14"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
 }

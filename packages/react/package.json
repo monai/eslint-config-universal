@@ -1,0 +1,26 @@
+{
+  "name": "@monai/eslint-config-react",
+  "version": "0.0.0",
+  "description": "ESLint React config",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config"
+  ],
+  "author": "monai",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "rules"
+  },
+  "files": [
+    "rules",
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7",
+    "eslint-plugin-jsx-a11y": ">=6",
+    "eslint-plugin-react": ">=7",
+    "eslint-plugin-react-hooks": ">=4"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@monai/eslint-config-node",
+  "version": "0.0.0",
+  "description": "ESLint node config",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config"
+  ],
+  "author": "monai",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "rules"
+  },
+  "files": [
+    "rules",
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7",
+    "eslint-config-airbnb-base": ">=14",
+    "eslint-plugin-node": ">=11"
+  }
+}

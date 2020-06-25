@@ -1,6 +1,6 @@
 {
   "name": "@monai/eslint-config-node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ESLint node config",
   "keywords": [
     "eslint",

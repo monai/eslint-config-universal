@@ -25,5 +25,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "4504a1a9bef52ad4b76a372499ff6d8e0c76f193"
+  "homepage": "https://github.com/monai/eslint-config-universal",
+  "repository": "github:monai/eslint-config-universal",
+  "bugs": {
+    "url": "https://github.com/monai/eslint-config-universal/issues"
+  }
 }

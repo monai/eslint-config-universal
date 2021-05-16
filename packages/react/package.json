@@ -1,6 +1,6 @@
 {
   "name": "@monai/eslint-config-react",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint React config",
   "keywords": [
     "eslint",

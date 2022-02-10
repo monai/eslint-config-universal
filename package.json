@@ -2,10 +2,10 @@
   "name": "@monai/eslint-config-universal",
   "private": true,
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.26.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.23.2",
+    "@babel/eslint-parser": "^7.17.0",
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
     "lerna": "^4.0.0"
   }

@@ -27,5 +27,13 @@ module.exports = {
       },
     ],
     'no-use-before-define': ['error', { functions: false }],
+    'import/extensions': [
+      'error',
+      'ignorePackages',
+      {
+        js: 'never',
+        cjs: 'never',
+      },
+    ],
   },
 };

@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     './packages/base',
-    './packages/node',
     './packages/style',
+    './packages/node',
   ],
 };

@@ -1,9 +1,11 @@
 'use strict';
 
 module.exports = {
+  env: {
+    es2022: true,
+  },
   parser: '@babel/eslint-parser',
   parserOptions: {
-    ecmaVersion: 'latest',
     requireConfigFile: false,
   },
   extends: [

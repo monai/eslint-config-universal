@@ -12,6 +12,15 @@ module.exports = {
         exceptAfterSingleLine: true,
       },
     ],
+    'no-unused-vars': [
+      'error',
+      {
+        vars: 'all',
+        varsIgnorePattern: '^_',
+        args: 'after-used',
+        ignoreRestSiblings: true,
+      },
+    ],
     'no-use-before-define': ['error', { functions: false }],
   },
 };
